@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Architectures: amd64 arm64
 Codename: stable
 Components: main
@@ -29,3 +32,17 @@ SHA512:
  4b9153402dfa06b621d976453a50289458f5208a1379270b2fa127d6b3ac2ef3d4595676702c584f5a6d255c1810fc2276e92ad25f93babcbd5ce865c13e2e98              389 stable/main/binary-amd64/Packages.gz
  4272bb1a55011a9fc82794a96f3240ab7c52b7e389d10c394ae66d4ceba6c0579380a29962065d201d79b72e0f3ac2c2794bd5a9e5f21124acb9f35ae766c161              494 stable/main/binary-arm64/Packages
  269a61bed8d5c68ca0aac4c5ee185f8941273ee51ac0ec98cf474cad6a855d820e6d9c489177b1e814969f06a896b920d0259e82bfa72fffd11d46657b78b227              378 stable/main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEBjDO+9WgIt0KviIdabOBmC5uJycFAmpWCI0ACgkQabOBmC5u
+JyfvYgwAwgMjB/+fauzGXNim3yrgFRaRmF0lRc5yv0G6UxOTl2l7nRtuEQCZqL4b
+e0jk61c8s8T7KtwS9EXBUUzOEe3e6H0Zxw73duw9y7+3t+5VHND63t0b0NO8pD2/
+dyawpjB6N0YoJSJVJUTDPlavAv/DKwSwtLedYlj7goqD8X73+6ODZTeVktUALm1Q
+jJZqO583I3ZMPCFRB+whhJKwFmBJsiUyU9cedcZReQmZ7Gtph0Sio7OKyedZhNHN
+PI5PQQpsRVm/CATilsa06SHcYJXh6o2J6EmiXugG8o0tfafHQRllDGKXW9lwGiiq
+EovBbrNosBWY78HJAwrBaiJoOwzMTNsK3w0TsvPnFBLEbBfmMkN28eeVI2pcm6DO
+DDBlrNwUkTD5YheHaZU7fYxRYYFWDqyLgAkq0Zqdh+WNFhXnaiwm8xpdHPTfsPeh
+0M0KddOLjfiSqd6tdinFtWZXlvFNZ3EGQ4vBeVQOcancexsNJvoJ4b8zV3RkBmsW
+u72WmRfj
+=AV+K
+-----END PGP SIGNATURE-----

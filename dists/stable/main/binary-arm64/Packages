@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: Maximilian Hagen <max@tellstone.io>
 Installed-Size: 7040
 Filename: pool/tellstone/tellstone_1.0.0_linux_arm64.deb
-Size: 2888800
-MD5sum: 62526f428244a0a8e0a3c6be2e03bf69
-SHA1: 252a393b1e66514fe29024c952722dacf2f1ae07
-SHA256: e63dd699aca1b7f83c571ab88661f7daa3f74a55b3efe8c54b25894faba226f7
+Size: 2888808
+MD5sum: 749167ccc0c344a3453bec88c0824109
+SHA1: afcfdc10a0f66a4cc5e20afc5b5bc79bfc74e356
+SHA256: 782db969e1bf2d120723330e5091fd4bf64c7cf50ee598f29d4440c53d1ca754
 Section: database
 Priority: optional
 Homepage: https://tellstone.io

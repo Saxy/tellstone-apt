@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: Maximilian Hagen <max@tellstone.io>
 Installed-Size: 7592
 Filename: pool/tellstone/tellstone_1.0.0_linux_amd64.deb
-Size: 3197886
-MD5sum: 86d43f7820d2afd06c39bb638d567206
-SHA1: 8eecdd6f8da6fe0e5bbbea4c44441c60f3a96df7
-SHA256: 1245d4a6d17075d179ddbc9786de3ed635425e0b2f7808fe33a323e1a8376779
+Size: 3197880
+MD5sum: d9ea62e569d98d57ff569501aa6f0bdb
+SHA1: c09aa68c8e69dd94e53837dd6a8780c794b61290
+SHA256: eccb5faf3ebeb94e3be44a418982e89a6d15cdff2e22843be250c5ad9eec8e42
 Section: database
 Priority: optional
 Homepage: https://tellstone.io

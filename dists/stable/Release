@@ -1,0 +1,31 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 14 Jul 2026 08:49:31 +0000
+Label: Tellstone
+Origin: Tellstone
+Suite: stable
+MD5Sum:
+ b95ec178cb4b33d279449c1c3892e5a4              148 stable/Release
+ 169ad2aba2ab2d0a1dcec6f6ce9f683e              524 stable/main/binary-amd64/Packages
+ b7422b65189ac210706ec05ba00d93a4              392 stable/main/binary-amd64/Packages.gz
+ 2b2f63039a4903b8655961a3cb40ded1              494 stable/main/binary-arm64/Packages
+ d13d6199b82f1615097b7a8a26887e82              374 stable/main/binary-arm64/Packages.gz
+SHA1:
+ c8257a3a7fbb230dbbdcc75805a7499b85f266f8              148 stable/Release
+ 98e3f21f359d535dd25526d261f25f2f63e4eb24              524 stable/main/binary-amd64/Packages
+ 5927b6f77c8fa2cecaac58c9c0ab5dc977e455cc              392 stable/main/binary-amd64/Packages.gz
+ b8e85d253667f0d18847981ce1894c1b03a06f04              494 stable/main/binary-arm64/Packages
+ c36345a34e34068809de57f00017cc30dab5cbe9              374 stable/main/binary-arm64/Packages.gz
+SHA256:
+ a39e8965ce7c84b5e5a54cb93e5af32e5313a927daa5e1b5e696968062cd10f4              148 stable/Release
+ 09b71ebcd8c4d7f256c1dedd8e6b9c50b81640717e911d283acad959f2658051              524 stable/main/binary-amd64/Packages
+ 65e099838ddf6627c95913e7244eb8604420347b2ba9d1bc325d68759a5d6e3d              392 stable/main/binary-amd64/Packages.gz
+ 375786bca473e7c72357173c081400760799510513ed3852f5bb21fea7035620              494 stable/main/binary-arm64/Packages
+ 55719889545c7d7ae769f7485f081af3ba5650e0526782efbf82dfd75e026476              374 stable/main/binary-arm64/Packages.gz
+SHA512:
+ b2fea779a2f57cecec81a6f10dfbb143a4da7b5c5a59f96da8980db5eab276a5b0b9faa3f48398bd27816640bef08f4d3a8a560b4776247869c65689a489e2e7              148 stable/Release
+ 0dd6f02b514053b4d16cd9ba4a8b97ee968b469c2a60529d966b09912bc997dafaee58563cd7d053560ddc00763143985067cb6ebb4bb53e790cfb95b5acb586              524 stable/main/binary-amd64/Packages
+ bf9a636ebf99a79ae89ce225dc2876716c50f3468a6a572dbaee30abe6aed395dfe71300acfdf6082a63fa62f519e6b9aac8201f31696a3a1036ecd19ae13bd0              392 stable/main/binary-amd64/Packages.gz
+ 0515aefe7b2651865e2f0ecf04936e6013674b4390759dcf3a08e04afd995decc341bb4d38c04317f61bdd1e4bcf98180f3fcde0203f1c464494cdfd5af08315              494 stable/main/binary-arm64/Packages
+ 4b737cf8894a4ec29bc2e1ea59d7cd2c11a7f014846917d2b936f0000bf7132ece88321fe558ec358d45fa60416457bbacf59028db0787b0187323b75c8def23              374 stable/main/binary-arm64/Packages.gz

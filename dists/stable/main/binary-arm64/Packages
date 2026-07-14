@@ -1,0 +1,15 @@
+Package: tellstone
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Maximilian Hagen <max@tellstone.io>
+Installed-Size: 7040
+Filename: pool/tellstone/tellstone_1.0.0_linux_arm64.deb
+Size: 2888816
+MD5sum: 55fee77aa7f27c0a32b6b95730b23e3a
+SHA1: 2cea39bbbb449fbf5ab8f10cc7fce1ed78e9e542
+SHA256: 963e8cd28803d3a3e8f08aba78fae76a91372a60f9ad702fd76b266663d1aff9
+Section: database
+Priority: optional
+Homepage: https://tellstone.io
+Description: High-performance, cloud-native in-memory key/value store
+
